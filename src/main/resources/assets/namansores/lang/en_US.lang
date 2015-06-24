@@ -1,0 +1,46 @@
+<en_US.lang - English localization file for the mod "Namans Ores">
+
+item.block_ore_copper.name=Copper Ore
+tile.block_ore_copper.name=Copper Ore
+item.block_ore_lead.name=Lead Ore
+tile.block_ore_lead.name=Lead Ore
+item.block_ore_mithril.name=Mithril Ore
+tile.block_ore_mithril.name=Mithril Ore
+item.block_ore_nickel.name=Nickel Ore
+tile.block_ore_nickel.name=Nickel Ore
+item.block_ore_platinum.name=Platinum Ore
+tile.block_ore_platinum.name=Platinum Ore
+item.block_ore_silver.name=Silver Ore
+tile.block_ore_silver.name=Silver Ore
+item.block_ore_tin.name=Tin Ore
+tile.block_ore_tin.name=Tin Ore
+
+item.block_metal_copper.name=Block of Copper
+tile.block_metal_copper.name=Block of Copper
+item.block_metal_lead.name=Block of Lead
+tile.block_metal_lead.name=Block of Lead
+item.block_metal_mithril.name=Block of Mithril
+tile.block_metal_mithril.name=Block of Mithril
+item.block_metal_nickel.name=Block of Nickel
+tile.block_metal_nickel.name=Block of Nickel
+item.block_metal_platinum.name=Block of Platinum
+tile.block_metal_platinum.name=Block of Platinum
+item.block_metal_silver.name=Block of Silver
+tile.block_metal_silver.name=Block of Silver
+item.block_metal_tin.name=Block of Tin
+tile.block_metal_tin.name=Block of Tin
+
+item.item_ingot_copper.name=Copper Ingot
+tile.item_ingot_copper.name=Copper Ingot
+item.item_ingot_lead.name=Lead Ingot
+tile.item_ingot_lead.name=Lead Ingot
+item.item_ingot_mithril.name=Mithril Ingot
+tile.item_ingot_mithril.name=Mithril Ingot
+item.item_ingot_nickel.name=Nickel Ingot
+tile.item_ingot_nickel.name=Nickel Ingot
+item.item_ingot_platinum.name=Platinum Ingot
+tile.item_ingot_platinum.name=Platinum Ingot
+item.item_ingot_silver.name=Silver Ingot
+tile.item_ingot_silver.name=Silver Ingot
+item.item_ingot_tin.name=Tin Ingot
+tile.item_ingot_tin.name=Tin Ingot

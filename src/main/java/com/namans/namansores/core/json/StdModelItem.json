@@ -1,0 +1,6 @@
+{
+    "parent":"%MOD_ID%:item/standard_item",
+    "textures": {
+        "layer0":"%MOD_ID%:items/%MOD_FILE%"
+    }
+}
